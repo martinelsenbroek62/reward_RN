@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_reward_red.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_reward_red.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_logout.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_logout.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_qrcode.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_qrcode.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\node_modules_reactnavigation_src_views_assets_backiconmask.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_history_red.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_history_red.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_referral_red.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_referral_red.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_logo.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_logo.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_close.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_close.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_reward_grey.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_reward_grey.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_history_grey.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_history_grey.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_refresh.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_refresh.png"
+    },
+    {
+        "merged": "D:\\HYBRID\\reward\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\src_images_referral_grey.png",
+        "source": "D:\\HYBRID\\reward\\android\\app\\src\\main\\res\\drawable-mdpi\\src_images_referral_grey.png"
+    }
+]
